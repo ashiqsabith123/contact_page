@@ -1,0 +1,142 @@
+.left_portion{
+    width: 50%;
+    height: 24em;
+    background: black;
+    text-align: center;
+    padding-top: 20em;
+    float: left;
+    
+
+}
+
+.main_label{
+    font-family: 'Josefin Sans', sans-serif;
+    color: #636363;
+    letter-spacing: .25em;
+    font-size: 46px;
+    font-weight: bold;
+    
+    
+}
+
+.right_portion{
+    float: left;
+    width: 735px;
+    height: 37em;
+    background: #000000;
+    padding-top: 7em;
+    padding-left: 1em;
+}
+
+.fname_label{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: #636363;
+    font-size: 20px;
+}
+
+.fname_input{
+    font-family: 'Josefin Sans', sans-serif;
+    background: black ;
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    width: 11em;
+    height: 35px;
+    font-size: 20px;
+    letter-spacing: 3px;
+}
+
+.sub_div{
+    float: left;
+}
+
+.lname_label{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: #636363;
+    font-size: 20px;
+    margin-left: 5em;
+    
+}
+
+.lname_input{
+    font-family: 'Josefin Sans', sans-serif;
+    background: black ;
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    width: 11em;
+    height: 35px;
+    font-size: 20px;
+    margin-left: 5em;
+    letter-spacing: 3px;
+}
+
+.sub_email_div{
+    float: left;
+    padding-top: 4em;
+}
+
+
+.email_label{
+    font-family: 'Josefin Sans', sans-serif;
+    font-weight: bold;
+    color: #636363;
+    font-size: 20px;
+}
+
+.email_input{
+    font-family: 'Josefin Sans', sans-serif;
+    background: black ;
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    width: 27.5em;
+    height: 35px;
+    font-size: 20px;
+    letter-spacing: 3px;
+    
+}
+
+.textarea_input{
+    font-family: 'Josefin Sans', sans-serif;
+    background: black ;
+    color: white;
+    border: none;
+    border-bottom: 1px solid white;
+    outline: none;
+    width: 27.5em;
+    height: 60px;
+    font-size: 20px;
+    margin-top: 1em;
+    letter-spacing: 3px;
+}
+
+.sub_button_div{
+    float: left;
+    padding-top: 3em;
+    padding-left: 4em;
+    
+}
+
+.btn{
+    width: 22em;
+    height: 2em;
+    background: black;
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+    border: 1px solid white;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+.btn:hover{
+    background: white;
+    color: black;
+    font-weight: bold;
+}
